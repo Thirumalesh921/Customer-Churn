@@ -48,4 +48,5 @@ CALCULATE(
 
 ## 📊 Dashboard
 
-![teledhu_dashboard](https://github.com/user-attachments/assets/ca1fb762-eb16-4057-b432-bb109b42e598)
+![DashBoard](https://github.com/user-attachments/assets/774b4a4b-88ef-4834-8901-deb720cef754)
+
