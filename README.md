@@ -44,9 +44,8 @@ CALCULATE(
     customer_data[Customer_Status] = "churned"
 ) + 0
 
+```
 
-📊 Dashboard
-
+## 📊 Dashboard
 
 ![teledhu_dashboard](https://github.com/user-attachments/assets/ca1fb762-eb16-4057-b432-bb109b42e598)
-
