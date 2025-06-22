@@ -10,7 +10,6 @@ This Power BI dashboard provides a detailed analysis of customer churn behavior 
 
 - **Tool Used:** Power BI
 - **Language:** Python (for data preprocessing)
-- **ML Model:** Random Forest Classifier
 - **Data Size:** 6,418 customer records
 
 ---
